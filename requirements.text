@@ -1,0 +1,4 @@
+flask
+apify-client
+flask-cors
+vercel-python
